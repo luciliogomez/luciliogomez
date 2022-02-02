@@ -1,7 +1,7 @@
 # Olá 👋
 
 <p > 
- Meu nome é Lucilio Gomes. Sou <strong>Desenvoledor de Software</strong> apaixonado por <strong>Back-End</strong>.
+ Meu nome é Lucilio Gomes. Sou <strong>Desenvolvedor de Software</strong> apaixonado por <strong>Back-End</strong>.
 </p>
 
 <p >
