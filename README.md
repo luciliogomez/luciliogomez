@@ -1,7 +1,7 @@
 # Olá 👋
 
 <p > 
- Meu nome é Lucilio Gomes. Sou <strong>Desenvolvedor de Software</strong> apaixonado por <strong>Back-End</strong>.
+ Meu nome é Lucilio Gomes. Sou <strong>Desenvolvedor de Software</strong> amante de <strong>Back-End</strong>.
 </p>
 
 <p >
@@ -25,7 +25,6 @@
   ##
  
 <div> 
-  <a href="https://www.instagram.com/luciliodetales/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:luciliodetales@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luc%C3%ADlio-gomes-b16b2b149/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
