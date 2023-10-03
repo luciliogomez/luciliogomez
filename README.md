@@ -12,12 +12,57 @@
 
 <h2>Tecnologias</h2>
 
-<div style="display: inline_block"><br>
-  
-  <img align="center" alt="luciliogomez-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="luciliogomez-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="luciliogomez-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="luciliogomez-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<div
+    style="
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 20px;
+    "
+>
+    <img
+        alt="HTML"
+        src="https://img.shields.io/badge/HTML-E44C30?style=for-the-badge&logo=html5&logoColor=white"
+    />
+    <img
+        alt="CSS"
+        src="https://img.shields.io/badge/CSS-0081CB?style=for-the-badge&logo=css3&logoColor=white"
+    />
+   <img
+        alt="JAVASCRIPT"
+        src="https://img.shields.io/badge/JAVASCRIPT-FCE803?style=for-the-badge&logo=javascript&logoColor=white"
+    /> 
+   <img
+        alt="tailwindcss"
+        src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
+    />
+    <img
+        alt="bootstrap"
+        src="https://img.shields.io/badge/BOOTSTRAP-BA03FC?style=for-the-badge&logo=bootstrap&logoColor=white"
+    />
+    <img
+        alt="Vue Js"
+        src="https://img.shields.io/badge/VUEJS-2a803a?style=for-the-badge&logo=vuedotjs&logoColor=white"
+    />
+    <img
+        alt="PHP"
+        src="https://img.shields.io/badge/PHP-a975e0?style=for-the-badge&logo=php&logoColor=white"
+    />
+    <img
+        alt="Laravel"
+        src="https://img.shields.io/badge/LARAVEL-de0413?style=for-the-badge&logo=laravel&logoColor=white"
+    />
+    <img
+        alt="MYSQL"
+        src="https://img.shields.io/badge/MYSQL-045bde?style=for-the-badge&logo=mysql&logoColor=white"
+    />
+    <img
+        alt="JAVA"
+        src="https://img.shields.io/badge/JAVA-de5804?style=for-the-badge&logo=Java&logoColor=white"
+    />
+   
+</div>
  
 </div>
 
