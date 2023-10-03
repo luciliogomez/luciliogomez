@@ -64,7 +64,26 @@
    
 </div>
  
+------
+
+<div
+    style="
+        width: 100%;
+        flex-direction: column;
+        display: flex;
+        align-items: center;
+        gap: 20px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    "
+>
+
+<img src='https://github-readme-stats.vercel.app/api?username=luciliogomez&show_icons=true&theme=dark&title_color=20d7e8&text_color=34aeeb&locale=pt-br&count_private=true' />
+
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=luciliogomez&layout=compact&langs_count=10&hide=cmake&theme=dark' />
 </div>
+
+------
 
 
   ##
